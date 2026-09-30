@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DamApp</string>
+
+    <!-- Login -->
+    <string name="club_name">CLUB DEPORTIVO</string>
+    <string name="administrative_management">Gestión administrativa</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="username">Usuario</string>
+    <string name="username_hint">Administrador</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="club_logo_description">Logo del club deportivo</string>
 </resources>
